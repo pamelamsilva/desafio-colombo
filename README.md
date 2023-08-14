@@ -28,3 +28,4 @@ Para subir a API basta executar o comando:
 ```bash
 python manage.py runserver
 ```
+Após isso, basta acessar a url disponibiizada no terminal e torna-se possível a interação com a aplicação
